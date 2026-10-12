@@ -1,0 +1,36 @@
+# ============================================
+# EDU-PIANO & IT - Fichiers à ignorer
+# ============================================
+
+# Fichiers de préférences (généré automatiquement)
+preferences.mat
+
+# Fichiers Octave temporaires
+*.mat
+*.oct
+*.mex
+*.o
+*.asv
+*.autosave
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers de build
+*.zip
+*.tar.gz
+build/
+dist/
+
+# Logs
+*.log
+octave-workspace
